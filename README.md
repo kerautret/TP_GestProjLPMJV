@@ -4,6 +4,8 @@
 
 Premier commit ...
 
+Rakotoniaina Andy Andriamaro LD
+
 Auchère Gabriel Formation LD
 
 Kene Alyca I3D
