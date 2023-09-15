@@ -18,6 +18,8 @@ Rakotoniaina Andy Andriamaro LD
 
 Auchère Gabriel Formation LD
 
+Maillet Benjamin LD
+
 Kene Alyca I3D
 
 Basil Gilles I3D
