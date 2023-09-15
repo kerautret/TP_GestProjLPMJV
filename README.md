@@ -4,6 +4,8 @@
 
 Premier commit ...
 
+Tristan Sinamouny I3D
+
 PERNALON Benjamin I3D
 
 Grebot Céleste LP3D
