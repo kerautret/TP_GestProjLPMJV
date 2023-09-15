@@ -4,13 +4,23 @@
 
 Premier commit ...
 
+Tristan Sinamouny I3D
+
+PERNALON Benjamin I3D
+
+Grebot Céleste LP3D
+
+Zakaria Ahmad LP I3D
+
 Rakotoniaina Andy Andriamaro LD
 
 Auchère Gabriel Formation LD
 
+
 Kene Alyca I3D
 
 Basil Gilles I3D
+
 
 Le Bourlout Alex Level Design
 
@@ -36,4 +46,7 @@ Carla REYES I3D
 Daumas Camille LD
 
 Gaetan Romain Guidani LD
+
+SAMIA Maha LD
+
 
