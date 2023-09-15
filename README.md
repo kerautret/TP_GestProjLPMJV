@@ -4,6 +4,8 @@
 
 Premier commit ...
 
+Forgeois Paul-sorin I3D
+
 Boirivent Marion I3D
 
 Tristan Sinamouny I3D
