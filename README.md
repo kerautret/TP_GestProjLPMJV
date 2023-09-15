@@ -26,10 +26,14 @@ Ismael Kone Level Design
 Oliveira Andréa I3D
 
 Lachi Swann LP I3D
+
 Laniesse Dorian Formation LD
+
 Gangutia Pablo Formation LD
 
 Carla REYES I3D
 
 Daumas Camille LD
+
+Gaetan Romain Guidani LD
 
