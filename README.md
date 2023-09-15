@@ -53,3 +53,5 @@ Bienfait Antoine LD
 SAMIA Maha LD
 
 Luna Sommaro LD
+
+Maxence Bartoli LD
