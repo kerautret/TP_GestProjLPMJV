@@ -4,6 +4,8 @@
 
 Premier commit ...
 
+Forgeois Paul-sorin I3D
+
 Boirivent Marion I3D
 
 Tristan Sinamouny I3D
@@ -54,21 +56,10 @@ SAMIA Maha LD
 
 Luna Sommaro LD
 
+Perrain Jérémy LPI3D
+
 Maxence Bartoli LD
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Janin Sarah I3D
+
+Eva Klein I3D
