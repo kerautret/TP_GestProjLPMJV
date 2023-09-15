@@ -4,6 +4,12 @@
 
 Premier commit ...
 
+Boirivent Marion I3D
+
+Tristan Sinamouny I3D
+
+PERNALON Benjamin I3D
+
 Grebot Céleste LP3D
 
 Zakaria Ahmad LP I3D
@@ -37,3 +43,7 @@ Carla REYES I3D
 Daumas Camille LD
 
 Bienfait Antoine LD
+
+SAMIA Maha LD
+
+Luna Sommaro LD
