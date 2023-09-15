@@ -14,6 +14,8 @@ Basil Gilles I3D
 
 Le Bourlout Alex Level Design
 
+Fontaine Sylvain I3D
+
 Lachi Swann LP I3D
 
 Ismael Kone Level Design
@@ -27,5 +29,4 @@ Gangutia Pablo Formation LD
 Carla REYES I3D
 
 Daumas Camille LD
-
 
