@@ -60,6 +60,8 @@ Perrain Jérémy LPI3D
 
 Maxence Bartoli LD
 
+Erwann VL I3D
+
 Janin Sarah I3D
 
 Eva Klein I3D
